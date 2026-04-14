@@ -68,20 +68,6 @@ The script in [datasets/InmigrationReview.py](datasets/InmigrationReview.py) per
 - Cleaned file path
 - Final DataFrame shape
 
-## Portfolio Highlights
-
-- Real-world data cleaning and transformation workflow
-- Reproducible ETL script with clear function boundaries
-- Business-intelligence integration with Power BI
-- Reporting-ready dataset enriched for trend analysis by year and month
-
-## Possible Improvements
-
-- Add data quality checks (nulls, duplicates, schema validation)
-- Add unit tests for each transformation function
-- Add automatic charts with matplotlib or seaborn for exploratory analysis
-- Add notebook documentation for step-by-step EDA
-
 ## Author
 
 Prepared as a data analytics portfolio project by Luis Diego Hernández Mora
